@@ -2,6 +2,10 @@
     margin: 0px;
     padding: 0px;
 }
+.menu{
+    padding: 5% 0px; 
+    background-color: black !important;
+}
 
 .a-hijo {
     padding-left: 5% !important;
