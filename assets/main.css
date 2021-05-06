@@ -1,9 +1,7 @@
-*{
-
-
+.a-hijo {
+    padding-left: 5% !important;
 }
 
-.navio{
-    align-content: right !important;
-    text-align: right;
+.nav-hijo {
+    padding-left: 45% !important;
 }
